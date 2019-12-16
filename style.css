@@ -26,5 +26,6 @@ a {
 }
 
 #featured-property p {
-  
+  column-width: 800px;
+  text-align: center;
 }
