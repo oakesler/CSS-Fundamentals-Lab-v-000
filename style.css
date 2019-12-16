@@ -24,3 +24,19 @@ a {
 #featured-property{
   font-size: smaller;
 }
+
+#featured-property p {
+  column-width: 800px;
+  text-align: center;
+}
+
+#details {
+  display: block; 
+}
+
+#details div {
+  float: left;
+  background-color: grey; 
+  text-align: center;
+  width: 25%;
+}
